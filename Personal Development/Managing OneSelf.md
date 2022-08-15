@@ -12,7 +12,7 @@ Tags:
 
 ## How I Discovered It
 ## Yotube 
-[Youtube](https://youtu.be/M_HmVm4D2B8?t=67)
+[Book Review](https://youtu.be/M_HmVm4D2B8?t=67)
 
 ## Who Should Read It?
 
@@ -23,7 +23,7 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 # ✍️ My Top 3 Quotes
 
 # 📒 Summary + Notes
-## What are my strengths
+## What are my strengths ?
 - One can not build performance on weakness.
 - We need to know our strength in order to know where we belong.
 - when ever you makes a key decision or takes a key action , 9 or 12 months later, comapre the actual results with yout expectation.(it's called[feedback analysis])
@@ -32,3 +32,7 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 	2. Work on improving your strength 
 	3. Discover where your intellectual arrogance is causing you to stop doing things  and overcome it.
 
+
+```
+**One Should waste as little efforts as possible on improving areas of low competence.**
+```
