@@ -32,4 +32,4 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 	2. Work on improving your strength 
 	3. Discover where your intellectual arrogance is causing you to stop doing things  and overcome it.
 
-#### __One Should waste as little efforts as possible on improving areas of low competence.__
+#### __One Should waste as little efforts as possible on improving areas of low competence.__ 
