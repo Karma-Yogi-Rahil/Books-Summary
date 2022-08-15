@@ -34,5 +34,5 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 
 
 ```
-**One Should waste as little efforts as possible on improving areas of low competence.**
+__One Should waste as little efforts as possible on improving areas of low competence.__
 ```
