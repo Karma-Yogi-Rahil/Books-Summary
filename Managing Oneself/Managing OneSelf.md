@@ -2,8 +2,8 @@
 # {{Managing OneSelf}}
 
 Date Finished: {{date:MMM d, YYYY}}
-Author:
-Tags:
+Author: Peter F. Drucker
+Tags: 
 
 ---
 
