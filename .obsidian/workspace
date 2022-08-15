@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "Managing Oneself/Managing OneSelf.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Managing Oneself/Managing OneSelf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Managing Oneself/Managing OneSelf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Managing Oneself/Managing OneSelf.md"
               }
             }
           }
@@ -130,7 +130,7 @@
   },
   "active": "cf76ecc58a4c9d50",
   "lastOpenFiles": [
-    "Managing Oneself/Managing OneSelf.md",
-    "README.md"
+    "README.md",
+    "Managing Oneself/Managing OneSelf.md"
   ]
 }
