@@ -1,6 +1,6 @@
 
 # Managing OneSelf
-
+Start Date : 
 Date Finished: {{date:MMM d, YYYY}}
 Author: Peter F. Drucker
 Tags: 
@@ -21,3 +21,12 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 # ✍️ My Top 3 Quotes
 
 # 📒 Summary + Notes
+## What are my strengths
+- One can not build performance on weakness.
+- We need to know our strength in order to know where we belong.
+- when ever you makes a key decision or takes a key action , 9 or 12 months later, comapre the actual results with yout expectation.(it's called[feedback analysis])
+- What you should do.
+	1.  Concentrate on your strength
+	2. Work on improving your strength 
+	3. Discover where your intellectual arrogance is causing you to stop doing things  and overcome it.
+
