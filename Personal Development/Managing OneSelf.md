@@ -1,11 +1,10 @@
 
-# {{Managing OneSelf}}
+# Managing OneSelf
 
 Date Finished: {{date:MMM d, YYYY}}
 Author: Peter F. Drucker
 Tags: 
 
----
 
 # 🚀 The Book in 3 Sentences
 
